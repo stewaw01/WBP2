@@ -1,4 +1,5 @@
 library(plotly)
+library(hablar)
 
 # Source functions script
 source(paste(here::here(), "code", "arco", "arco_functions.R", sep = "/"))
